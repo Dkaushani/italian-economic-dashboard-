@@ -25,3 +25,5 @@ Tech Stack
 #Web Framework: Streamlit, streamlit-folium
 
 #Geospatial & Data Processing: GeoPandas, Folium, Pandas
+
+<img width="1911" height="798" alt="image" src="https://github.com/user-attachments/assets/b27ee186-2051-4127-8764-2a71f4a2f472" />
