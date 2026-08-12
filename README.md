@@ -18,7 +18,7 @@ View Interactive Web Dashboard (Replace with your actual Streamlit link)
 
 #Automated Data Processing: Clean pipeline integrating official ISTAT spatial geometries (GeoJSON) with regional benchmark data.
 
-*Tech Stack
+Tech Stack
 
 #Language: Python
 
