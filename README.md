@@ -1,4 +1,4 @@
-# italian-economic-dashboard
+# Italian-economic-dashboard
 https://italian1economicdashboard.streamlit.app/
 
 #Italian Regional Economic Risk Dashboard
