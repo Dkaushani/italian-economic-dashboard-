@@ -1,13 +1,13 @@
 # Italian-economic-dashboard
-https://italian1economicdashboard.streamlit.app/
 
-#Italian Regional Economic Risk Dashboard
+
+**Italian Regional Economic Risk Dashboard**
 This repository contains an interactive geospatial dashboard built with Python, Streamlit, and Folium to analyze regional economic vulnerability across Italy.
 
-#The project maps real economic output data (GDP per capita in Purchasing Power Standards) across all 20 Italian administrative regions and translates it into a relative Economic Risk Index (0–100 scale).
+The project maps real economic output data (GDP per capita in Purchasing Power Standards) across all 20 Italian administrative regions and translates it into a relative Economic Risk Index (0–100 scale).
 
-#🔗 Live Demo
-View Interactive Web Dashboard (Replace with your actual Streamlit link)
+🔗 Live Demo
+View Interactive Web Dashboard https://italian1economicdashboard.streamlit.app/
 
 #Key Features
 #Geospatial Risk Mapping: Interactive choropleth map powered by Leaflet/Folium visualizing the economic divide between northern and southern Italy.
